@@ -1,0 +1,2 @@
+2016-07-03 16:58:34,125 main DEBUG [com.yc.http.server.YcConstants] kitty server is starting, and listening to port 8080
+2016-07-01 16:59:20,375 main DEBUG [com.yc.http.server.YcConstants] kitty server is starting, and listening to port 8080

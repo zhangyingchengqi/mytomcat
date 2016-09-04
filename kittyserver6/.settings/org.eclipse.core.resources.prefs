@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//docs/readme.txt=gbk
+encoding//src/com/yc/http/server/YcHttpServletRequest.java=gbk
+encoding//src/com/yc/http/server/YcHttpServletResponse.java=gbk
+encoding//src/com/yc/javax/servlet/http/HttpServletResponse.java=gbk
+encoding//src/threadpool=utf-8
